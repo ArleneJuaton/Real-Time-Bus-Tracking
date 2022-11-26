@@ -6,8 +6,13 @@
 
 <a href="https://github.com/ArleneJuaton/Real-Time-Bus-Tracking">Repository</a>
 
-
 This page displays the location of buses on the Bus 1 Line of the MBTA running between MIT and Harvard in Boston.
+
+## Future Improvements
+1. Change background color
+2. Add 'back' button to return to main page
+3. Add 'input' buttons for other interactive maps (e.g., European Map)
+
 
 # License
 ## MIT License
