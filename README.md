@@ -1,6 +1,12 @@
 # Real-Time-Bus-Tracking
 ## Bus Tracker
 <img src= "Bus Tracker.png" width='300'/>
+
+<a href="https://arlenejuaton.github.io/RT-Bus-Tracker/bustracker.html">Bus Tracker</a>
+
+<a href="https://github.com/ArleneJuaton/Real-Time-Bus-Tracking">Repository</a>
+
+
 This page displays the location of buses on the Bus 1 Line of the MBTA running between MIT and Harvard in Boston.
 
 # License
